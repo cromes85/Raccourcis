@@ -10,6 +10,8 @@ fetch("data.json")
         });
     })
     .catch(error => console.error("Error loading users:", error));
+    // Fonction pour retourner à la page d'accueil (chemin relatif)
     function goToHome() {
-        window.location.href = "index.html";
-    }
+    window.location.href = "./";
+}
+
