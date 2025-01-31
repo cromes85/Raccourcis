@@ -14,6 +14,11 @@
             "type": "text",
             "content": "Bonjour chère collègue,\n\nNous vous remercions pour votre demande. Cependant, nous constatons que le format utilisé ne correspond pas au modèle requis. Afin de garantir un traitement optimal de vos requêtes, nous vous invitons à reformuler votre demande en utilisant le template approprié.\n\nEn conséquence, nous vous informons que cette demande sera clôturée.\n\nMerci de votre compréhension.\n\nCordialement,",
             "label": "Mauvais Template"
+        },
+        {
+            "type": "text",
+            "content": "Bonjour, \n\n Validez-vous cette installation ?\n\ndemandeur : '', \n\ndemande : '',\n\nBien à vous\n\n Ores It",
+            "label": "validation"
         }
     ]
 }
