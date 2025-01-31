@@ -135,3 +135,47 @@ body {
 .back-button:hover {
     background-color: #005a9e;
 }
+/* Effet sur les cellules cliquables */
+.clickable {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.clickable:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Style de la notification de copie */
+.notification {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #0078d4;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    opacity: 0;
+    animation: fadeInOut 2s forwards;
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    10% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    90% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+}
