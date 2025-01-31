@@ -79,3 +79,41 @@ body {
         transform: translateY(10px);
     }
 }
+/* Mise en page en 4 parties */
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 80%;
+    height: 80vh;
+    gap: 10px;
+}
+
+/* Style des sections */
+.grid-item {
+    background: #1e1e2e;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Tableau des utilisateurs */
+.user-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.user-list th, .user-list td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #444;
+}
+
+.user-list th {
+    background-color: #0078d4;
+    color: white;
+}
+
+.user-list tr:hover {
+    background-color: #393951;
+}

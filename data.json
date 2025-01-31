@@ -25,5 +25,19 @@
             "content": "Bonjour, \n\n Validez-vous cette installation ?\n\ndemandeur : '', \n\ndemande : '',\n\nBien à vous\n\n Ores It",
             "label": "validation"
         }
+    ],
+    "users": [
+        {
+            "email": "john.doe@example.com",
+            "username": "John Doe"
+        },
+        {
+            "email": "jane.smith@example.com",
+            "username": "Jane Smith"
+        },
+        {
+            "email": "samuel.lee@example.com",
+            "username": "Samuel Lee"
+        }
     ]
 }
