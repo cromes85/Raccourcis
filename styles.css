@@ -117,3 +117,21 @@ body {
 .user-list tr:hover {
     background-color: #393951;
 }
+/* Bouton de retour à l'accueil */
+.back-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.back-button:hover {
+    background-color: #005a9e;
+}

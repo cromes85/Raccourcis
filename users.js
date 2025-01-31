@@ -10,3 +10,6 @@ fetch("data.json")
         });
     })
     .catch(error => console.error("Error loading users:", error));
+    function goToHome() {
+        window.location.href = "index.html";
+    }

@@ -11,6 +11,11 @@
             "label": "Groups Intune"
         },
         {
+            "type": "link",
+            "content": "https://cromes85.github.io/Raccourcis/users",
+            "label": "Users Fréquent"
+        },
+        {
             "type": "text",
             "content": "Example template text",
             "label": "Copy Example"
