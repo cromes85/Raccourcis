@@ -29,7 +29,13 @@
             "type": "text",
             "content": "Bonjour, \n\n Validez-vous cette installation ?\n\ndemandeur : '', \n\ndemande : '',\n\nBien à vous\n\n Ores It",
             "label": "validation"
+        },
+        {
+            "type": "text",
+            "content": "Bonjour, Votre pc est ajouté au groupe (Intune.Package.SD.ORES_Launcher_AutoCAD_2023.install). \n\nLe package suivanr sera déployer juste en suivant. \n\nBien à  Vous. \n\nOres IT",
+            "Label" : " 1er Package Autocad"
         }
+
     ],
     "users": [
         {
