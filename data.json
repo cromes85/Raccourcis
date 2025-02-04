@@ -33,12 +33,12 @@
         {
             "type": "text",
             "content": "Bonjour, Votre pc est ajouté au groupe (Intune.Package.SD.ORES_Launcher_AutoCAD_2023.install). \n\nLe package suivanr sera déployer juste en suivant. \n\nBien à  Vous. \n\nOres IT",
-            "Label" : " 1er Package Autocad"
+            "label" : " 1er Package Autocad"
         },
         {
             "type": "text",
             "content": "Bonjour, \n\n L'It ne gere pas cette partie.\n\nMerci de bien vouloir prndre contact avec => HRAdmin@ores.be \n\nBien à  Vous. \n\nOres IT",
-            "Label" : " demande HRadmin (infoOres)"
+            "label" : " demande HRadmin (infoOres)"
         }
 
     ],
