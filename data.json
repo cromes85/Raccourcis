@@ -39,7 +39,17 @@
             "type": "text",
             "content": "Bonjour, \n\n L'It ne gere pas cette partie.\n\nMerci de bien vouloir prndre contact avec => HRAdmin@ores.be \n\nBien à  Vous. \n\nOres IT",
             "label" : " demande HRadmin (infoOres)"
-        }
+        },
+        {
+            "type": "text",
+            "content" : "Intune.Package.SD.Micro_Focus_ALM_Client_15.51.233.0.install",
+            "label" : "ALM (Int)"
+        },
+        {
+            "type" : "link",
+            "content" : "https://almores.saas.microfocus.com/qcbin/qcaddon/ui/main.jsp?target=customers",
+            "label" : "ALM (Site)"
+        } 
 
     ],
     "users": [
