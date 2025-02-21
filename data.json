@@ -42,6 +42,11 @@
         },
         {
             "type": "text",
+            "content": "Bonjour, \n\n La demande suivante est en attente de votre validation.\n\nMerci de bien vouloir faire suite. \n\nBien à  Vous. \n\nOres IT",
+            "label" : "ALM (dmde validation)"
+        },
+        {
+            "type": "text",
             "content" : "Intune.Package.SD.Micro_Focus_ALM_Client_15.51.233.0.install",
             "label" : "ALM (Int)"
         },
@@ -58,8 +63,8 @@
             "username": "UUW329"
         },
         {
-            "email": "jane.smith@example.com",
-            "username": "Jane Smith"
+            "email": "BENOIT.LEGAZ@ORES.BE",
+            "username": "Benoit Legaz"
         },
         {
             "email": "samuel.lee@example.com",
